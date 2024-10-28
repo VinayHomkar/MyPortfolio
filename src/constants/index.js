@@ -168,7 +168,7 @@ const projects = [
       },
     ],
     image: imageaipro,
-    source_code_link: "https://github.com/",
+    source_code_link: "http://imageaipro-darshan-s-ns-projects.vercel.app",
   },
   {
     name: "Chat App",
@@ -210,7 +210,7 @@ const projects = [
       },
     ],
     image: myportfolio,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/VinayHomkar/MyPortfolio",
   },
 ];
 
