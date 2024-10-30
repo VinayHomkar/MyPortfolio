@@ -4,23 +4,19 @@ import {
   creator,
   web,
   javascript,
-  //typescript,
   html,
   css,
   reactjs,
-  //redux,
   tailwind,
   nodejs,
   mongodb,
   git,
   figma,
-  //docker,
   python,
   starbucks,
   imageaipro,
   myportfolio,
   chatapp,
-  // threejs,
 } from "../assets";
 
 export const navLinks = [
@@ -70,18 +66,10 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
-  // {
-  //   name: "TypeScript",
-  //   icon: typescript,
-  // },
   {
     name: "React JS",
     icon: reactjs,
   },
-  // {
-  //   name: "Redux Toolkit",
-  //   icon: redux,
-  // },
   {
     name: "Tailwind CSS",
     icon: tailwind,
@@ -94,10 +82,6 @@ const technologies = [
     name: "MongoDB",
     icon: mongodb,
   },
-  // {
-  //   name: "Three JS",
-  //   icon: threejs,
-  // },
   {
     name: "git",
     icon: git,
@@ -110,10 +94,6 @@ const technologies = [
     name: "python",
     icon: python,
   },
-  // {
-  //   name: "docker",
-  //   icon: docker,
-  // },
 ];
 
 const experiences = [
